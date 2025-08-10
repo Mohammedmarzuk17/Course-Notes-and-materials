@@ -21,3 +21,6 @@ It’s designed so I can **easily access my work from anywhere** without digging
 - Serve as a personal knowledge base for quick reference.
 
 ---
+## 📬 Contact
+- **LinkedIn:** www.linkedin.com/in/mohammed-marzuk-t-m-54ba722a0
+- **Email:** mohammedmarzuk2535@gmail.com
