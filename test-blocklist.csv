@@ -1,0 +1,5 @@
+domain,severity,source
+malicious-site.test,red,CSV-Feed
+phishing-example.com,red,CSV-Feed
+fake-college.edu,red,CSV-Feed
+suspicious-course.net,orange,CSV-Feed
