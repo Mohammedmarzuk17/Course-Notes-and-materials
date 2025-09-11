@@ -1,0 +1,7 @@
+domain,severity,sources
+example-fake-college.edu,red,UGC
+scamsite.test,red,URLHaus
+phishing-login.com,red,PhishingDB
+malware-download.net,red,MalwareDomainList
+fake-course-platform.org,red,UGC
+suspicious-site.info,orange,Heuristic
