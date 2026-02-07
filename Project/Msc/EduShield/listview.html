@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>EduShield — List View</title>
+  <link rel="stylesheet" href="popup.css" />
+  <style>
+    body { width: 380px; padding: 12px; background: #f9f9f9; }
+    h2 { margin: 0 0 10px 0; font-size: 18px; }
+    ul { list-style: none; padding-left: 0; max-height: 400px; overflow-y: auto; }
+    li { display: flex; justify-content: space-between; align-items: center; padding: 4px 0; }
+    .back-btn { margin-top: 12px; width: 100%; }
+
+    /* Ensure trash icon is always visible */
+    li .trash-btn {
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+  <h2 id="listTitle">List</h2>
+  <ul id="listContainer"></ul>
+  <button id="backBtn" class="back-btn secondary-btn">⬅ Back</button>
+
+  <script type="module" src="listView.js"></script>
+</body>
+</html>
